@@ -39,8 +39,6 @@ Die Anwendung richtet sich an Personen, die ihren christlichen Glauben gemeinsam
 
 ## 6. User Stories
 
-## 6. User Stories
-
 Die folgenden User Stories beschreiben die wichtigsten Anforderungen aus Sicht der späteren Nutzer der Anwendung.
 
 | ID | User Story |
