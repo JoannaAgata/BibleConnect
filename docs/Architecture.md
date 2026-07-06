@@ -59,10 +59,24 @@ Die Anwendung besteht aus mehreren eigenständigen Komponenten. Jede Komponente 
 | Notification Service | Informiert Benutzer über neue Kommentare, Gruppeneinladungen und Gebetsanliegen. |
 | PostgreSQL Database | Speichert die Daten der Anwendung dauerhaft. |
 
+
 ## 4. Warum wurde diese Architektur gewählt?
 
-Die Anwendung wurde als verteiltes System konzipiert, da jede Hauptfunktion von einem eigenen Service übernommen wird. Dadurch können die einzelnen Komponenten unabhängig voneinander entwickelt, getestet und erweitert werden.
+Für BibleConnect wurde eine verteilte Architektur gewählt, da die einzelnen Funktionen der Anwendung unabhängig voneinander entwickelt und betrieben werden können. Jeder Service übernimmt einen klar abgegrenzten Aufgabenbereich und besitzt eine eindeutige Verantwortung.
 
+Durch diese Aufteilung ergeben sich mehrere Vorteile:
+
+- Eine klare Trennung der Verantwortlichkeiten.
+- Einzelne Services können unabhängig voneinander erweitert oder geändert werden.
+- Fehler in einem Service beeinträchtigen die anderen Services möglichst wenig.
+- Neue Funktionen können später einfacher ergänzt werden.
+- Die Architektur erfüllt die Anforderungen einer verteilten Softwareanwendung.
+
+Diese Struktur bildet die Grundlage für die Umsetzung in Aufgabe C und ermöglicht eine modulare und wartbare Softwarelösung.
 Das Frontend kommuniziert ausschließlich mit dem API Gateway. Dieses leitet die Anfragen an den jeweils zuständigen Service weiter. Jeder Service besitzt einen klar abgegrenzten Verantwortungsbereich und übernimmt nur eine bestimmte Aufgabe innerhalb der Anwendung.
 
 Diese Architektur verbessert die Wartbarkeit, erleichtert zukünftige Erweiterungen und erfüllt die Anforderungen einer verteilten Softwareanwendung.
+
+## 5. Zusammenfassung
+
+Die geplante Systemarchitektur teilt BibleConnect in mehrere unabhängige Services auf. Dadurch entsteht eine modulare und verteilte Anwendung mit klar definierten Verantwortlichkeiten. Diese Architektur dient als Grundlage für die Implementierung des Projekts in Aufgabe C.
