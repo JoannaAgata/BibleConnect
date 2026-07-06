@@ -37,8 +37,22 @@ Die erste Version umfasste unter anderem folgende Bereiche:
 
 **Abbildung 2:** Erster Prompt in Google Stitch
 
-![Prompt 1](Screenshots/stitch_prompt_1_1.png)
+![Prompt 1](Screenshots/stitch_prompt_1_1.png) 
 
-**Abbildung 3:** Erste von Google Stitch generierte Benutzeroberflächen
+## 6. Verbesserung des Dashboards
 
-![Erstes Ergebnis](Screenshots/stitch_result_1_1.png)
+Nach der ersten Generierung wurde das Dashboard hinsichtlich Übersichtlichkeit und Benutzerfreundlichkeit verbessert. Ziel war es, die Navigation zu vereinfachen und die wichtigsten Funktionen klarer hervorzuheben. Hierfür wurde ein neuer Prompt in Google Stitch verwendet.
+
+**Abbildung 4:** Prompt zur Verbesserung des Dashboards
+
+![Verbesserungs-Prompt](Screenshots/stitch_improve_prompt_for_dashbotrad_2_1.png)
+
+**Abbildung 5:** Erneuter Prompt zur Verbesserung des Dashboards
+
+![Verbessertes Dashboard](Screenshots/stitch_improve_for_dashbotrad_2_3.png)
+
+Durch die Anpassung des Prompts wurde das Dashboard übersichtlicher gestaltet. Wichtige Funktionen wie Suche, Favoriten, Gruppen und Benachrichtigungen wurden besser angeordnet. Dadurch wirkt die Benutzeroberfläche insgesamt moderner und benutzerfreundlicher.
+
+**Abbildung 6:** Erste von Google Stitch generierte Benutzeroberflächen
+
+![Erstes Ergebnis](Screenshots/stitch_result_1_3.png)
