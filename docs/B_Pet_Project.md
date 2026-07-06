@@ -21,7 +21,7 @@ Funktion | Beschreibung
 1. Benutzerverwaltung -> Registrierung, Login und Verwaltung des persönlichen Profils. 
 2. Bibel lesen -> Lesen der Bibel nach Büchern, Kapiteln und Versen. 
 3. Suche -> Suche nach Bibelstellen oder Stichwörtern. 
-4. Kategorien -> Anzeige von Bibelversen nach Themen wie Freundschaft, Gesundheit, Sorge, Hoffnung, Liebe und Glaube. 
+4. Kategorien -> Anzeige von Bibelversen nach Themen wie Freundschaft, Gesundheit, Sorge, Hoffnung, Liebe und Glaube.  
 5. Favoriten -> Speichern und Verwalten persönlicher Lieblingsverse. 
 6. Kommentare -> Nutzer können Bibelverse kommentieren und die Kommentare anderer lesen. 
 7. Gruppen -> Erstellen von Gruppen sowie gemeinsamer Austausch mit Familie und Freunden. 
