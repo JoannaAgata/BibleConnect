@@ -23,10 +23,10 @@ Ziel dieses Entwicklungsschrittes war die Erstellung des Frontends für die Bibl
 
 Das Frontend wurde erfolgreich erstellt und kann lokal über den Vite-Entwicklungsserver ausgeführt werden. Damit ist die Grundlage für die Entwicklung der Benutzeroberfläche geschaffen.
 
-### Abbildung 1: React-Entwicklungsserver
+### Abbildung 1: Erfolgreich gestarteter Vite-Entwicklungsserver in Visual Studio Code
 
 ![React Development Server](Screenshots/Screenshot_Vite_1.png)
 
-### Abbildung 2: React-Anwendung im Browser
+### Abbildung 2: Standardansicht der React-Anwendung nach erfolgreichem Start im Webbrowser
 
 ![React Browser](Screenshots/step02_react_running.png)
