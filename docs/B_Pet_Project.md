@@ -78,3 +78,27 @@ Neben den funktionalen Anforderungen soll die Anwendung auch folgende Qualitäts
 | NFA-03 | Benutzerbezogene Daten sollen sicher gespeichert und verarbeitet werden. |
 | NFA-04 | Das System soll modular aufgebaut sein, um eine spätere Erweiterung zu erleichtern. |
 | NFA-05 | Die Anwendung soll eine klare Trennung zwischen Benutzeroberfläche, Geschäftslogik und Datenhaltung besitzen. |
+
+## 9. Systemübersicht
+
+BibleConnect wird als verteilte Anwendung konzipiert. Die Anwendung besteht aus mehreren eigenständigen Komponenten, die jeweils eine klar definierte Aufgabe übernehmen. Dadurch können einzelne Funktionen unabhängig voneinander entwickelt, erweitert und gewartet werden.
+
+Die wichtigsten Komponenten sind:
+
+| Komponente | Aufgabe |
+|------------|---------|
+| Frontend | Stellt die Benutzeroberfläche bereit und ermöglicht die Interaktion mit der Anwendung. |
+| API Gateway | Nimmt Anfragen des Frontends entgegen und leitet sie an den zuständigen Service weiter. |
+| User Service | Verwaltet Benutzerkonten, Anmeldung und Profile. |
+| Bible Service | Stellt Bibeltexte, Kategorien und Suchfunktionen bereit. |
+| Comment Service | Verwaltet Kommentare zu Bibelversen. |
+| Group Service | Verwaltet Gruppen und Gebetsanliegen. |
+| Notification Service | Informiert Benutzer über neue Kommentare, Gruppeneinladungen und Gebetsanliegen. |
+| Datenbank | Speichert Benutzer-, Gruppen-, Kommentar- und Favoritendaten. |
+
+
+## 10. Ausblick auf Aufgabe C
+
+Die in diesem Dokument beschriebene Projektplanung bildet die Grundlage für die Umsetzung in Aufgabe C. Die Anwendung wird als verteiltes System entwickelt, bei dem mehrere Services unabhängig voneinander arbeiten und über definierte Schnittstellen miteinander kommunizieren.
+
+Durch diese Aufteilung wird eine klare Trennung der Verantwortlichkeiten erreicht. Änderungen an einem Service können vorgenommen werden, ohne die gesamte Anwendung anzupassen. Gleichzeitig entspricht diese Architektur den Anforderungen einer verteilten Softwareanwendung.
