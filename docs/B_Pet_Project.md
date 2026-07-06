@@ -44,10 +44,10 @@ Die folgenden User Stories beschreiben die wichtigsten Anforderungen aus Sicht d
 ID | User Story 
 
 US-01: Als Benutzer möchte ich mich registrieren und anmelden können, damit ich meine persönlichen Daten und Aktivitäten verwalten kann. 
-US-02: Als Benutzer möchte ich Bibelverse nach Bibelstelle oder Stichwörtern suchen können, damit ich bestimmte Verse schnell finde. 
-US-03: Als Benutzer möchte ich Bibelverse lesen können, damit ich die Bibel digital nutzen kann. 
-US-04: Als Benutzer möchte ich Bibelverse als Favoriten speichern können, damit ich sie später schnell wiederfinde. 
-US-05: Als Benutzer möchte ich Kommentare zu Bibelversen schreiben können, damit ich meine Gedanken mit anderen teilen kann. 
-US-06: Als Benutzer möchte ich Gruppen erstellen oder ihnen beitreten können, damit ich mich mit Familie und Freunden austauschen kann. 
-US-07: Als Gruppenmitglied möchte ich Gebetsanliegen veröffentlichen können, damit andere Gruppenmitglieder dafür beten und darauf reagieren können. 
+US-02: Als Benutzer möchte ich Bibelverse nach Bibelstelle oder Stichwörtern suchen können, damit ich bestimmte Verse schnell finde.
+US-03: Als Benutzer möchte ich Bibelverse lesen können, damit ich die Bibel digital nutzen kann.
+US-04: Als Benutzer möchte ich Bibelverse als Favoriten speichern können, damit ich sie später schnell wiederfinde.
+US-05: Als Benutzer möchte ich Kommentare zu Bibelversen schreiben können, damit ich meine Gedanken mit anderen teilen kann.
+US-06: Als Benutzer möchte ich Gruppen erstellen oder ihnen beitreten können, damit ich mich mit Familie und Freunden austauschen kann.
+US-07: Als Gruppenmitglied möchte ich Gebetsanliegen veröffentlichen können, damit andere Gruppenmitglieder dafür beten und darauf reagieren können.
 US-08: Als Benutzer möchte ich Benachrichtigungen über neue Kommentare, Gruppeneinladungen und Gebetsanliegen erhalten, damit ich keine wichtigen Aktivitäten verpasse. 
