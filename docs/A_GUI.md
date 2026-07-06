@@ -6,7 +6,7 @@ Ziel dieser Aufgabe war die Erstellung eines grafischen Prototyps für die mobil
 
 ## 2. Projektidee
 
-BibleConnect ist eine mobile Anwendung, die Freunden und Familien ermöglicht, gemeinsam die Bibel zu lesen und sich über Bibelverse auszutauschen. Nutzer können Bibelstellen lesen, nach Versen oder Stichwörtern suchen, Verse als Favoriten speichern sowie Kommentare zu einzelnen Bibelstellen verfassen. Darüber hinaus können Gruppen erstellt werden, um gemeinsam über bestimmte Themen zu diskutieren. Benachrichtigungen informieren die Nutzer über neue Kommentare oder Gruppeneinladungen.
+BibleConnect ist eine mobile Anwendung, die Freunden und Familien ermöglicht, gemeinsam die Bibel zu lesen und sich über Bibelverse auszutauschen. Nutzer können Bibelstellen lesen, nach Versen oder Stichwörtern suchen, Verse als Favoriten speichern sowie Kommentare zu einzelnen Bibelstellen verfassen. Darüber hinaus können Gruppen erstellt werden, um gemeinsam über bestimmte Themen zu  diskutieren. Benachrichtigungen informieren die Nutzer über neue Kommentare oder Gruppeneinladungen.
 
 ## 3. Verwendetes Werkzeug
 
