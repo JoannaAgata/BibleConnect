@@ -51,7 +51,7 @@ Die folgenden User Stories beschreiben die wichtigsten Anforderungen aus Sicht d
 | US-06 | Als Benutzer möchte ich Gruppen erstellen oder ihnen beitreten können, damit ich mich mit Familie und Freunden austauschen kann. |
 | US-07 | Als Gruppenmitglied möchte ich Gebetsanliegen veröffentlichen können, damit andere Gruppenmitglieder dafür beten und darauf reagieren können. |
 | US-08 | Als Benutzer möchte ich Benachrichtigungen über neue Kommentare, Gruppeneinladungen und Gebetsanliegen erhalten, damit ich keine wichtigen Aktivitäten verpasse. |
-
+ 
 ## 7. Funktionale Anforderungen
 
 Die Anwendung BibleConnect muss die folgenden funktionalen Anforderungen erfüllen:
