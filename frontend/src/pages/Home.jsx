@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import "../App.css";
 
 function Home() {
@@ -11,9 +13,12 @@ function Home() {
         </p>
 
         <div className="buttons">
-          <button>Anmelden</button>
-          <button>Registrieren</button>
-        </div>
+  <Link to="/login">
+    <button>Anmelden</button>
+  </Link>
+
+  <button>Registrieren</button>
+</div>
 
         <div className="verse">
           <h3>✨ Vers des Tages</h3>
