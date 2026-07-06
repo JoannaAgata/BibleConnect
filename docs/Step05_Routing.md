@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Ziel dieses Entwicklungsschrittes war die Einrichtung einer Navigation zwischen den einzelnen Seiten der Anwendung. Hierfür wurde React Router verwendet.
+Ziel dieses Entwicklungsschrittes war die Einrichtung einer Navigation zwischen den einzelnen Seiten der Anwendung mithilfe von React Router.
 
 ## Durchgeführte Arbeiten
 
@@ -10,16 +10,14 @@ Ziel dieses Entwicklungsschrittes war die Einrichtung einer Navigation zwischen 
 - Routing in `App.jsx` eingerichtet.
 - Route für die Startseite (`/`) erstellt.
 - Route für die Login-Seite (`/login`) erstellt.
-- Den Button **Anmelden** auf der Startseite mit der Login-Seite verknüpft.
+- Den Button **„Anmelden“** auf der Startseite mit der Login-Seite verknüpft.
 
 ## Ergebnis
 
-Die Navigation zwischen der Startseite und der Login-Seite funktioniert erfolgreich. Damit wurde die Grundlage geschaffen, weitere Seiten wie Registrierung, Dashboard oder Benutzerprofil über eigene Routen bereitzustellen.
+Die Navigation zwischen der Startseite und der Login-Seite funktioniert erfolgreich. Damit wurde die Grundlage geschaffen, weitere Seiten wie Registrierung, Dashboard und Benutzerprofil über eigene Routen bereitzustellen.
 
-### Abbildung 1: Startseite mit Navigation
+### Abbildung 1: Einrichtung des React Routers und erfolgreiche Navigation zwischen Startseite und Login-Seite
 
-![Startseite](Screenshots/step05_home_router.png)
+![Startseite](Screenshots/step05_react_router.png)
 
-### Abbildung 2: Login-Seite nach Navigation
 
-![Login](Screenshots/step05_login_router.png)
