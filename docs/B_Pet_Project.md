@@ -51,3 +51,30 @@ Die folgenden User Stories beschreiben die wichtigsten Anforderungen aus Sicht d
 | US-06 | Als Benutzer möchte ich Gruppen erstellen oder ihnen beitreten können, damit ich mich mit Familie und Freunden austauschen kann. |
 | US-07 | Als Gruppenmitglied möchte ich Gebetsanliegen veröffentlichen können, damit andere Gruppenmitglieder dafür beten und darauf reagieren können. |
 | US-08 | Als Benutzer möchte ich Benachrichtigungen über neue Kommentare, Gruppeneinladungen und Gebetsanliegen erhalten, damit ich keine wichtigen Aktivitäten verpasse. |
+
+## 7. Funktionale Anforderungen
+
+Die Anwendung BibleConnect muss die folgenden funktionalen Anforderungen erfüllen:
+
+| ID | Anforderung |
+|----|-------------|
+| FA-01 | Das System muss Benutzern die Registrierung und Anmeldung ermöglichen. |
+| FA-02 | Das System muss Bibelverse anzeigen und nach Büchern, Kapiteln sowie Stichwörtern durchsuchen können. |
+| FA-03 | Das System muss Bibelverse nach Kategorien (z. B. Freundschaft, Gesundheit oder Hoffnung) anzeigen können. |
+| FA-04 | Das System muss Benutzern ermöglichen, Bibelverse als Favoriten zu speichern und wieder aufzurufen. |
+| FA-05 | Das System muss das Erstellen, Bearbeiten und Anzeigen von Kommentaren zu Bibelversen ermöglichen. |
+| FA-06 | Das System muss das Erstellen und Verwalten von Gruppen ermöglichen. |
+| FA-07 | Das System muss Gruppenmitgliedern ermöglichen, Gebetsanliegen zu veröffentlichen und anzuzeigen. |
+| FA-08 | Das System muss Benachrichtigungen über neue Kommentare, Gruppeneinladungen und Gebetsanliegen versenden. |
+
+## 8. Nichtfunktionale Anforderungen
+
+Neben den funktionalen Anforderungen soll die Anwendung auch folgende Qualitätsmerkmale erfüllen:
+
+| ID | Anforderung |
+|----|-------------|
+| NFA-01 | Die Benutzeroberfläche soll einfach und intuitiv bedienbar sein. |
+| NFA-02 | Die Anwendung soll auf mobilen Endgeräten flüssig nutzbar sein. |
+| NFA-03 | Benutzerbezogene Daten sollen sicher gespeichert und verarbeitet werden. |
+| NFA-04 | Das System soll modular aufgebaut sein, um eine spätere Erweiterung zu erleichtern. |
+| NFA-05 | Die Anwendung soll eine klare Trennung zwischen Benutzeroberfläche, Geschäftslogik und Datenhaltung besitzen. |
