@@ -25,7 +25,7 @@ Das Frontend wurde erfolgreich erstellt und kann lokal über den Vite-Entwicklun
 
 ### Abbildung 1: React-Entwicklungsserver
 
-![React Development Server](Screenshots/step02_vite_server.png)
+![React Development Server](Screenshots/Vite_1.png)
 
 ### Abbildung 2: React-Anwendung im Browser
 
