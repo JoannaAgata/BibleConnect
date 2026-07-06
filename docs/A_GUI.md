@@ -53,6 +53,12 @@ Nach der ersten Generierung wurde das Dashboard hinsichtlich Übersichtlichkeit 
 
 Durch die Anpassung des Prompts wurde das Dashboard übersichtlicher gestaltet. Wichtige Funktionen wie Suche, Favoriten, Gruppen und Benachrichtigungen wurden besser angeordnet. Dadurch wirkt die Benutzeroberfläche insgesamt moderner und benutzerfreundlicher.
 
+## 7. Fazit
+
+Mit Google Stitch konnte innerhalb kurzer Zeit ein vollständiger grafischer Prototyp für die Anwendung BibleConnect erstellt werden. Die KI unterstützte sowohl bei der Erstellung der ersten Benutzeroberflächen als auch bei deren schrittweiser Optimierung. Durch die gezielte Überarbeitung der Prompts konnte insbesondere das Dashboard hinsichtlich Übersichtlichkeit und Benutzerfreundlichkeit verbessert werden.
+
+Der finale GUI-Prototyp bildet die Grundlage für die weitere Planung des Projekts. In den folgenden Aufgaben wird dieser Entwurf als Basis für die Entwicklung eines größeren Softwareprojekts sowie einer verteilten Anwendung verwendet.
+
 **Abbildung 6:** Erste von Google Stitch generierte Benutzeroberflächen
 
 ![Erstes Ergebnis](Screenshots/stitch_result_1_4.png)
