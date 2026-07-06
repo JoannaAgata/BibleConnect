@@ -49,7 +49,7 @@ Nach der ersten Generierung wurde das Dashboard hinsichtlich Übersichtlichkeit 
 
 **Abbildung 5:** Erneuter Prompt zur Verbesserung des Dashboards
 
-![Verbessertes Dashboard](Screenshots/stitch_improve_for_dashbotrad_2_3.png)
+![Verbessertes Dashboard](Screenshots/stitch_improve_prompt_for_dashbotrad_2_3.png)
 
 Durch die Anpassung des Prompts wurde das Dashboard übersichtlicher gestaltet. Wichtige Funktionen wie Suche, Favoriten, Gruppen und Benachrichtigungen wurden besser angeordnet. Dadurch wirkt die Benutzeroberfläche insgesamt moderner und benutzerfreundlicher.
 
