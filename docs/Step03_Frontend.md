@@ -16,10 +16,10 @@ Ziel dieses Entwicklungsschrittes war die Umsetzung der ersten eigenen Benutzero
 
 Die React-Standardseite wurde erfolgreich durch die erste Version der BibleConnect-Startseite ersetzt. Damit wurde die Grundlage für die weitere Entwicklung der Benutzeroberfläche geschaffen.
 
-### Abbildung 1: Projektstruktur des React-Frontends
+### Abbildung 1: Projektstruktur des React-Frontends nach der Einrichtung der Komponenten- und Seitenstruktur.
 
 ![Projektstruktur](Screenshots/step03_frontend_structure.png)
 
-### Abbildung 2: Erste Startseite von BibleConnect
+### Abbildung 2: Erste implementierte Startseite der Anwendung BibleConnect.
 
 ![BibleConnect Startseite](Screenshots/step03_bibleconnect_home.png)
