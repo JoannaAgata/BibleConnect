@@ -55,4 +55,4 @@ Durch die Anpassung des Prompts wurde das Dashboard übersichtlicher gestaltet. 
 
 **Abbildung 6:** Erste von Google Stitch generierte Benutzeroberflächen
 
-![Erstes Ergebnis](Screenshots/stitch_result_1_3.png)
+![Erstes Ergebnis](Screenshots/stitch_result_1_4.png)
