@@ -1,6 +1,9 @@
 import "../App.css";
+import { useNavigate } from "react-router-dom";
 
 function Login() {
+  const navigate = useNavigate();
+
   return (
     <div className="app">
       <div className="card">
@@ -22,7 +25,9 @@ function Login() {
           placeholder="Passwort"
         />
 
-        <button>Anmelden</button>
+        <button onClick={() => navigate("/dashboard")}>
+          Anmelden
+        </button>
 
         <p className="login-footer">
           Noch kein Konto? Registriere dich kostenlos.
