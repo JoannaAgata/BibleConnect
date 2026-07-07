@@ -1,0 +1,15 @@
+{
+  "name": "comment-service",
+  "version": "1.0.0",
+  "description": "BibleConnect Comment Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
