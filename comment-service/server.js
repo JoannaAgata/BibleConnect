@@ -4,12 +4,12 @@ const app = express();
 
 const PORT = 3004;
 
-// Startseite
+// Startseite des Services
 app.get("/", (req, res) => {
   res.send("Comment Service läuft erfolgreich.");
 });
 
-// Beispiel-Kommentare
+// Beispiel-Endpunkt für Kommentare
 app.get("/comments", (req, res) => {
   res.json([
     {
@@ -23,6 +23,12 @@ app.get("/comments", (req, res) => {
       user: "Max",
       verse: "Psalm 23,1",
       comment: "Dieser Psalm gibt mir Hoffnung."
+    },
+    {
+      id: 3,
+      user: "Anna",
+      verse: "Johannes 3,16",
+      comment: "Gottes Liebe gilt jedem Menschen."
     }
   ]);
 });
