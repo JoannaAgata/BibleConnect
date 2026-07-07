@@ -15,6 +15,6 @@ Die Anwendung besitzt nun die wichtigsten Seiten einer Bibel-Community.
 
 ## Abbildung 1: BibleConnect Features
 
-![React Browser]Screenshots/step13_features.png
+![React Browser] Screenshots/step13_features.png
 
 
