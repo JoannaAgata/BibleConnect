@@ -13,6 +13,5 @@
 
 Die Anwendung besitzt nun die wichtigsten Seiten einer Bibel-Community.
 
-## Screenshot
+## Abbildung 1: BibleConnect Features
 
-(Bild vom Dashboard und einer weiteren Seite einfügen.)
