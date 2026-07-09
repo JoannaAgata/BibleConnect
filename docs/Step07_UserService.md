@@ -2,11 +2,10 @@
 
 ## Ziel
 
-<<<<<<< HEAD
-Ziel dieses Entwicklungsschrittes war die Erstellung des ersten eigenständigen Services der verteilten Anwendung BibleConnect. Der User Service bildet die Grundlage für die spätere Benutzerverwaltung und zeigt das Prinzip einer verteilten Softwarearchitektur.
+Ziel dieses Entwicklungsschrittes war die Erstellung des ersten eigenständigen Services der verteilten Anwendung BibleConnect. 
+Der User Service bildet die Grundlage für die spätere Benutzerverwaltung und zeigt das Prinzip einer verteilten Softwarearchitektur.
 =======
 Ziel dieses Entwicklungsschrittes war die Entwicklung des ersten eigenständigen Services der verteilten Anwendung BibleConnect. Der User Service bildet die Grundlage für die spätere Benutzerverwaltung.
->>>>>>> 4e30bcb (Dokumentation für Step 07 und Step 08 ergänzt)
 
 ## Durchgeführte Arbeiten
 
@@ -43,4 +42,4 @@ Der User Service wurde erfolgreich implementiert und getestet.
 ### Abbildung 1: Laufender User Service
 
 ![User Service](Screenshots/step07_user_service.png)
->>>>>>> 4e30bcb (Dokumentation für Step 07 und Step 08 ergänzt)
+
